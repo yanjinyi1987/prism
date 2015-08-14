@@ -1,0 +1,8 @@
+PRISM
+PSIRM is auto-submit system used by the journals of Optical Society of America (OSA).
+This program is used to check the status of manuscript submitted to PRISM.
+
+Language:C++
+GUI: Qt5.4
+Compiler: g++ 4.9.1 of Mingw
+
